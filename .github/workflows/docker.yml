@@ -17,7 +17,7 @@ jobs:
       # https://github.com/docker/setup-qemu-action
       - name: Set up QEMU
         uses: docker/setup-qemu-action@v1
-      # https://github.com/docker/setup-buildx-action
+      # https://github.com/docker/setup-buildx-action1
       - name: Set up Docker Buildx
         uses: docker/setup-buildx-action@v1
 
